@@ -61,6 +61,7 @@ class AnnotationsViewController: UIViewController, CLLocationManagerDelegate, MK
         return Denver
     }
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         view.addSubview(locationView)
